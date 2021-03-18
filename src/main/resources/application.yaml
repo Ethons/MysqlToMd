@@ -1,0 +1,7 @@
+count: 标题
+outFile: C:\Users\Administrator\Desktop\输出文档.md
+data:
+  url: 127.0.0.1:3306
+  userName: root
+  passWord: 123456
+  tableName: api
